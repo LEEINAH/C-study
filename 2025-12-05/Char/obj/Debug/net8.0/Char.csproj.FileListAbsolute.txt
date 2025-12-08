@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Char\bin\Debug\net8.0\Char.exe
+C:\Users\Dw\source\repos\2025-12-05\Char\bin\Debug\net8.0\Char.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Char\bin\Debug\net8.0\Char.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Char\bin\Debug\net8.0\Char.dll
+C:\Users\Dw\source\repos\2025-12-05\Char\bin\Debug\net8.0\Char.pdb
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.dll
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\refint\Char.dll
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.pdb
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\Char.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Char\obj\Debug\net8.0\ref\Char.dll

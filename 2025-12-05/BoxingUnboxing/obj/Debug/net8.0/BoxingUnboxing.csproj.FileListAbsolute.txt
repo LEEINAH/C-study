@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.exe
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.deps.json
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.dll
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.pdb
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.dll
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\refint\BoxingUnboxing.dll
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.pdb
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\BoxingUnboxing\obj\Debug\net8.0\ref\BoxingUnboxing.dll

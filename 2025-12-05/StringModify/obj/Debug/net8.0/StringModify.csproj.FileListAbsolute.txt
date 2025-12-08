@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\StringModify\bin\Debug\net8.0\StringModify.exe
+C:\Users\Dw\source\repos\2025-12-05\StringModify\bin\Debug\net8.0\StringModify.deps.json
+C:\Users\Dw\source\repos\2025-12-05\StringModify\bin\Debug\net8.0\StringModify.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\StringModify\bin\Debug\net8.0\StringModify.dll
+C:\Users\Dw\source\repos\2025-12-05\StringModify\bin\Debug\net8.0\StringModify.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.dll
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\refint\StringModify.dll
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\StringModify.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\StringModify\obj\Debug\net8.0\ref\StringModify.dll

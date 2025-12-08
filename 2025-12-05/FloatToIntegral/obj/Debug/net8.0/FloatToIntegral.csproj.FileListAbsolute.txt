@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.exe
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.deps.json
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\refint\FloatToIntegral.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatToIntegral\obj\Debug\net8.0\ref\FloatToIntegral.dll

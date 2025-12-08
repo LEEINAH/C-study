@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\bin\Debug\net8.0\FloatConversion.exe
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\bin\Debug\net8.0\FloatConversion.deps.json
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\bin\Debug\net8.0\FloatConversion.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\bin\Debug\net8.0\FloatConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\bin\Debug\net8.0\FloatConversion.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\refint\FloatConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\FloatConversion.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatConversion\obj\Debug\net8.0\ref\FloatConversion.dll

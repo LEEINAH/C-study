@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Enum2\bin\Debug\net8.0\Enum2.exe
+C:\Users\Dw\source\repos\2025-12-05\Enum2\bin\Debug\net8.0\Enum2.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Enum2\bin\Debug\net8.0\Enum2.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Enum2\bin\Debug\net8.0\Enum2.dll
+C:\Users\Dw\source\repos\2025-12-05\Enum2\bin\Debug\net8.0\Enum2.pdb
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.dll
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\refint\Enum2.dll
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.pdb
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\Enum2.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Enum2\obj\Debug\net8.0\ref\Enum2.dll

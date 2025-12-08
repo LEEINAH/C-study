@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Bool\bin\Debug\net8.0\Bool.exe
+C:\Users\Dw\source\repos\2025-12-05\Bool\bin\Debug\net8.0\Bool.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Bool\bin\Debug\net8.0\Bool.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Bool\bin\Debug\net8.0\Bool.dll
+C:\Users\Dw\source\repos\2025-12-05\Bool\bin\Debug\net8.0\Bool.pdb
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.dll
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\refint\Bool.dll
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.pdb
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\Bool.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Bool\obj\Debug\net8.0\ref\Bool.dll

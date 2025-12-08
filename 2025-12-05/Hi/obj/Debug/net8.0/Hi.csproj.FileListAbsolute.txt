@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Hi\bin\Debug\net8.0\Hi.exe
+C:\Users\Dw\source\repos\2025-12-05\Hi\bin\Debug\net8.0\Hi.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Hi\bin\Debug\net8.0\Hi.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Hi\bin\Debug\net8.0\Hi.dll
+C:\Users\Dw\source\repos\2025-12-05\Hi\bin\Debug\net8.0\Hi.pdb
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.dll
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\refint\Hi.dll
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.pdb
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\Hi.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Hi\obj\Debug\net8.0\ref\Hi.dll

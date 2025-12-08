@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\bin\Debug\net8.0\UsingVar.exe
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\bin\Debug\net8.0\UsingVar.deps.json
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\bin\Debug\net8.0\UsingVar.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\bin\Debug\net8.0\UsingVar.dll
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\bin\Debug\net8.0\UsingVar.pdb
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.dll
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\refint\UsingVar.dll
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.pdb
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\UsingVar.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\UsingVar\obj\Debug\net8.0\ref\UsingVar.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\RectArea\bin\Debug\net8.0\RectArea.exe
+C:\Users\Dw\source\repos\2025-12-05\RectArea\bin\Debug\net8.0\RectArea.deps.json
+C:\Users\Dw\source\repos\2025-12-05\RectArea\bin\Debug\net8.0\RectArea.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\RectArea\bin\Debug\net8.0\RectArea.dll
+C:\Users\Dw\source\repos\2025-12-05\RectArea\bin\Debug\net8.0\RectArea.pdb
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.dll
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\refint\RectArea.dll
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.pdb
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\RectArea.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\RectArea\obj\Debug\net8.0\ref\RectArea.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\bin\Debug\net8.0\StringSearch.exe
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\bin\Debug\net8.0\StringSearch.deps.json
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\bin\Debug\net8.0\StringSearch.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\bin\Debug\net8.0\StringSearch.dll
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\bin\Debug\net8.0\StringSearch.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.dll
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\refint\StringSearch.dll
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\StringSearch.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\StringSearch\obj\Debug\net8.0\ref\StringSearch.dll

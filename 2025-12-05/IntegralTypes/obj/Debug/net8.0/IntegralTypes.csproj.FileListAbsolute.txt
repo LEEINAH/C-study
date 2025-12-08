@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll

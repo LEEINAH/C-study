@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\CTS\bin\Debug\net8.0\CTS.exe
+C:\Users\Dw\source\repos\2025-12-05\CTS\bin\Debug\net8.0\CTS.deps.json
+C:\Users\Dw\source\repos\2025-12-05\CTS\bin\Debug\net8.0\CTS.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\CTS\bin\Debug\net8.0\CTS.dll
+C:\Users\Dw\source\repos\2025-12-05\CTS\bin\Debug\net8.0\CTS.pdb
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.dll
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\refint\CTS.dll
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.pdb
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\CTS.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\CTS\obj\Debug\net8.0\ref\CTS.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\bin\Debug\net8.0\IntegralLiterals.exe
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\bin\Debug\net8.0\IntegralLiterals.deps.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\bin\Debug\net8.0\IntegralLiterals.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\bin\Debug\net8.0\IntegralLiterals.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\bin\Debug\net8.0\IntegralLiterals.pdb
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\refint\IntegralLiterals.dll
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.pdb
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\IntegralLiterals.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\IntegralLiterals\obj\Debug\net8.0\ref\IntegralLiterals.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.exe
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.deps.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\refint\StringFormatNumber.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatNumber\obj\Debug\net8.0\ref\StringFormatNumber.dll

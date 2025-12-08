@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.exe
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.deps.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\refint\StringFormatDatetime.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatDatetime\obj\Debug\net8.0\ref\StringFormatDatetime.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Decimal\bin\Debug\net8.0\Decimal.exe
+C:\Users\Dw\source\repos\2025-12-05\Decimal\bin\Debug\net8.0\Decimal.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Decimal\bin\Debug\net8.0\Decimal.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Decimal\bin\Debug\net8.0\Decimal.dll
+C:\Users\Dw\source\repos\2025-12-05\Decimal\bin\Debug\net8.0\Decimal.pdb
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.dll
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\refint\Decimal.dll
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.pdb
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\Decimal.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Decimal\obj\Debug\net8.0\ref\Decimal.dll

@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\Nullable\bin\Debug\net8.0\Nullable.exe
+C:\Users\Dw\source\repos\2025-12-05\Nullable\bin\Debug\net8.0\Nullable.deps.json
+C:\Users\Dw\source\repos\2025-12-05\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\Nullable\bin\Debug\net8.0\Nullable.dll
+C:\Users\Dw\source\repos\2025-12-05\Nullable\bin\Debug\net8.0\Nullable.pdb
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.dll
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.pdb
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\Nullable\obj\Debug\net8.0\ref\Nullable.dll

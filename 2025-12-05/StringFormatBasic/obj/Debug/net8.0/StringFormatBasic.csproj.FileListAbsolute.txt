@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.exe
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.deps.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\refint\StringFormatBasic.dll
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.pdb
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\StringFormatBasic\obj\Debug\net8.0\ref\StringFormatBasic.dll

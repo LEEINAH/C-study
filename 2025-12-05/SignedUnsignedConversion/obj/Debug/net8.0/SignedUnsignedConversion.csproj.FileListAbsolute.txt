@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.exe
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.deps.json
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\refint\SignedUnsignedConversion.dll
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-05\SignedUnsignedConversion\obj\Debug\net8.0\ref\SignedUnsignedConversion.dll
