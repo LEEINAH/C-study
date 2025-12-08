@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\bin\Debug\net8.0\RelationalOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\bin\Debug\net8.0\RelationalOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\bin\Debug\net8.0\RelationalOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\bin\Debug\net8.0\RelationalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\bin\Debug\net8.0\RelationalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\refint\RelationalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\RelationalOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\RelationalOperator\obj\Debug\net8.0\ref\RelationalOperator.dll
