@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:Deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|c:\\users\\dw\\source\\repos\\2025-12-03\\windowsformsapp5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\CardComparer_byValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:CardComparer_byValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7710C4AD-CE9A-452B-A50E-58738D637A7D}|WindowsFormsApp5.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIA4wJAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:32:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA5wGcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:58:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardComparer_byValue.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\CardComparer_byValue.cs",
+              "RelativeDocumentMoniker": "CardComparer_byValue.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\CardComparer_byValue.cs",
+              "RelativeToolTip": "CardComparer_byValue.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:07:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Deck.cs",
+              "RelativeDocumentMoniker": "Deck.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Deck.cs",
+              "RelativeToolTip": "Deck.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wIEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:07:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:07:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0EAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:50:11.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dw\\source\\repos\\2025-12-03\\WindowsFormsApp5\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:32:59.345Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

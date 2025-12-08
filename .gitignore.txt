@@ -1,0 +1,16 @@
+# Visual Studio / C# Ignore List
+
+# Visual Studio User Files
+*.suo
+*.user
+*.wsuo
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Cache Files and temp files
+.vs/
+slnx.sqlite

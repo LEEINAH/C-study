@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll
