@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\bin\Debug\net8.0\BitwiseOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\refint\BitwiseOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\BitwiseOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\BitwiseOperator\obj\Debug\net8.0\ref\BitwiseOperator.dll
