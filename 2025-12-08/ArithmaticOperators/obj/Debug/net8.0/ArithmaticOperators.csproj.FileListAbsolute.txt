@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.exe
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.deps.json
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.dll
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.pdb
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.dll
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\refint\ArithmaticOperators.dll
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.pdb
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\ArithmaticOperators\obj\Debug\net8.0\ref\ArithmaticOperators.dll
