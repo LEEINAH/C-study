@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\bin\Debug\net8.0\ShiftOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\bin\Debug\net8.0\ShiftOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\bin\Debug\net8.0\ShiftOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\bin\Debug\net8.0\ShiftOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\bin\Debug\net8.0\ShiftOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\refint\ShiftOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ShiftOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\ShiftOperator\obj\Debug\net8.0\ref\ShiftOperator.dll
