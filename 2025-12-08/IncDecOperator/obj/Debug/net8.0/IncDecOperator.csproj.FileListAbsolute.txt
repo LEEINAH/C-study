@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\bin\Debug\net8.0\IncDecOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\bin\Debug\net8.0\IncDecOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\bin\Debug\net8.0\IncDecOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\bin\Debug\net8.0\IncDecOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\bin\Debug\net8.0\IncDecOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\refint\IncDecOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\IncDecOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\IncDecOperator\obj\Debug\net8.0\ref\IncDecOperator.dll
