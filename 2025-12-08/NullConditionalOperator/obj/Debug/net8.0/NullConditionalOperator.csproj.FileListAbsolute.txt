@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\refint\NullConditionalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\NullConditionalOperator\obj\Debug\net8.0\ref\NullConditionalOperator.dll
