@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\bin\Debug\net8.0\LogicalOperator.exe
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\bin\Debug\net8.0\LogicalOperator.deps.json
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\bin\Debug\net8.0\LogicalOperator.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\bin\Debug\net8.0\LogicalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\bin\Debug\net8.0\LogicalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\refint\LogicalOperator.dll
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.pdb
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\LogicalOperator.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\LogicalOperator\obj\Debug\net8.0\ref\LogicalOperator.dll
