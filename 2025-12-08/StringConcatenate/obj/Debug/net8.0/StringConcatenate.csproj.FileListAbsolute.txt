@@ -1,0 +1,15 @@
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\bin\Debug\net8.0\StringConcatenate.exe
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\bin\Debug\net8.0\StringConcatenate.deps.json
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\bin\Debug\net8.0\StringConcatenate.runtimeconfig.json
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\bin\Debug\net8.0\StringConcatenate.dll
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\bin\Debug\net8.0\StringConcatenate.pdb
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.AssemblyInfoInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.AssemblyInfo.cs
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.csproj.CoreCompileInputs.cache
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.sourcelink.json
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.dll
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\refint\StringConcatenate.dll
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.pdb
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\StringConcatenate.genruntimeconfig.cache
+C:\Users\Dw\source\repos\2025-12-08\StringConcatenate\obj\Debug\net8.0\ref\StringConcatenate.dll
