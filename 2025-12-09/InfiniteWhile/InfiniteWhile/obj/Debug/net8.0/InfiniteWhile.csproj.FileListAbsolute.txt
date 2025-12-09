@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.exe
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.dll
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.dll
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\refint\InfiniteWhile.dll
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\InfiniteWhile\InfiniteWhile\obj\Debug\net8.0\ref\InfiniteWhile.dll
