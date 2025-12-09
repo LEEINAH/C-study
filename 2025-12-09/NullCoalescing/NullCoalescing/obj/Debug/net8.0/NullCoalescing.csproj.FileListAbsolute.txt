@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\bin\Debug\net8.0\NullCoalescing.exe
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\bin\Debug\net8.0\NullCoalescing.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\bin\Debug\net8.0\NullCoalescing.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\bin\Debug\net8.0\NullCoalescing.dll
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\bin\Debug\net8.0\NullCoalescing.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.dll
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\refint\NullCoalescing.dll
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\NullCoalescing.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\NullCoalescing\NullCoalescing\obj\Debug\net8.0\ref\NullCoalescing.dll
