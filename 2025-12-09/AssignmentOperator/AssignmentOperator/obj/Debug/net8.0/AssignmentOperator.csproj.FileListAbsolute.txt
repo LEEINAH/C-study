@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.exe
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.dll
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.dll
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\refint\AssignmentOperator.dll
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\AssignmentOperator\AssignmentOperator\obj\Debug\net8.0\ref\AssignmentOperator.dll
