@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\bin\Debug\net8.0\Continue.exe
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\bin\Debug\net8.0\Continue.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\bin\Debug\net8.0\Continue.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\bin\Debug\net8.0\Continue.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\bin\Debug\net8.0\Continue.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\refint\Continue.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\Continue.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Continue\Continue\obj\Debug\net8.0\ref\Continue.dll
