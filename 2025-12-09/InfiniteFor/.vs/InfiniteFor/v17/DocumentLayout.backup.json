@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\repos\\2025-12-09\\InfiniteFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B7385F-4E05-41AE-B590-CEA2280F2A19}|InfiniteFor\\InfiniteFor.csproj|c:\\users\\pc\\desktop\\repos\\2025-12-09\\infinitefor\\infinitefor\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B7385F-4E05-41AE-B590-CEA2280F2A19}|InfiniteFor\\InfiniteFor.csproj|solutionrelative:infinitefor\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\repos\\2025-12-09\\InfiniteFor\\InfiniteFor\\MainApp.cs",
+              "RelativeDocumentMoniker": "InfiniteFor\\MainApp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\repos\\2025-12-09\\InfiniteFor\\InfiniteFor\\MainApp.cs",
+              "RelativeToolTip": "InfiniteFor\\MainApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:19:26.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
