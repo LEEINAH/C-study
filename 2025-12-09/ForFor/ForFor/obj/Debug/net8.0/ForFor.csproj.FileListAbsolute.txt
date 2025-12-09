@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\bin\Debug\net8.0\ForFor.exe
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\bin\Debug\net8.0\ForFor.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\bin\Debug\net8.0\ForFor.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\bin\Debug\net8.0\ForFor.dll
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\bin\Debug\net8.0\ForFor.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.dll
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\refint\ForFor.dll
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ForFor.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\ForFor\ForFor\obj\Debug\net8.0\ref\ForFor.dll
