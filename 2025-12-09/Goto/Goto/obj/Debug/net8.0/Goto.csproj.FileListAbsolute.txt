@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\bin\Debug\net8.0\Goto.exe
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\bin\Debug\net8.0\Goto.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\bin\Debug\net8.0\Goto.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\bin\Debug\net8.0\Goto.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\bin\Debug\net8.0\Goto.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\refint\Goto.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\Goto.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Goto\Goto\obj\Debug\net8.0\ref\Goto.dll
