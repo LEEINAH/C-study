@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\bin\Debug\net8.0\IfElse.exe
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\bin\Debug\net8.0\IfElse.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\bin\Debug\net8.0\IfElse.dll
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\bin\Debug\net8.0\IfElse.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.dll
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\IfElse\IfElse\obj\Debug\net8.0\ref\IfElse.dll
