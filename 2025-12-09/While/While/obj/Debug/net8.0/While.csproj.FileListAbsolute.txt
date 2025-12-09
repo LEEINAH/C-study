@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\bin\Debug\net8.0\While.exe
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\bin\Debug\net8.0\While.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\bin\Debug\net8.0\While.dll
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\bin\Debug\net8.0\While.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.dll
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\While\While\obj\Debug\net8.0\ref\While.dll
