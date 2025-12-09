@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\bin\Debug\net8.0\Break.exe
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\bin\Debug\net8.0\Break.deps.json
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\bin\Debug\net8.0\Break.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\bin\Debug\net8.0\Break.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\bin\Debug\net8.0\Break.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\refint\Break.dll
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.pdb
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\Break.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-09\Break\Break\obj\Debug\net8.0\ref\Break.dll
