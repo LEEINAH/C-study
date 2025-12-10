@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
