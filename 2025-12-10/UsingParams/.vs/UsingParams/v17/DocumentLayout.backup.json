@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\repos\\2025-12-10\\UsingParams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D178D7-BC1F-4D21-ABC9-8D384A28CD35}|UsingParams\\UsingParams.csproj|c:\\users\\pc\\desktop\\repos\\2025-12-10\\usingparams\\usingparams\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D178D7-BC1F-4D21-ABC9-8D384A28CD35}|UsingParams\\UsingParams.csproj|solutionrelative:usingparams\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\repos\\2025-12-10\\UsingParams\\UsingParams\\MainApp.cs",
+              "RelativeDocumentMoniker": "UsingParams\\MainApp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\repos\\2025-12-10\\UsingParams\\UsingParams\\MainApp.cs",
+              "RelativeToolTip": "UsingParams\\MainApp.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T04:40:30.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
