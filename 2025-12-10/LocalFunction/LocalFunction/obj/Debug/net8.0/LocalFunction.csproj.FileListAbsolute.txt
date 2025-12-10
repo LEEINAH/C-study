@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.exe
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.dll
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.dll
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\refint\LocalFunction.dll
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\LocalFunction\LocalFunction\obj\Debug\net8.0\ref\LocalFunction.dll
