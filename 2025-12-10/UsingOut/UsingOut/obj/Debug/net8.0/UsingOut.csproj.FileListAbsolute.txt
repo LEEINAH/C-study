@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\bin\Debug\net8.0\UsingOut.exe
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\bin\Debug\net8.0\UsingOut.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\bin\Debug\net8.0\UsingOut.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\bin\Debug\net8.0\UsingOut.dll
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\bin\Debug\net8.0\UsingOut.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.dll
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\refint\UsingOut.dll
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\UsingOut.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\UsingOut\UsingOut\obj\Debug\net8.0\ref\UsingOut.dll
