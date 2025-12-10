@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.exe
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.dll
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.dll
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\refint\RefReturn.dll
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\RefReturn\RefReturn\obj\Debug\net8.0\ref\RefReturn.dll
