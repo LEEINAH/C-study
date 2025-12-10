@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.exe
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.dll
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.dll
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\refint\DeepCopy.dll
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\DeepCopy\DeepCopy\obj\Debug\net8.0\ref\DeepCopy.dll
