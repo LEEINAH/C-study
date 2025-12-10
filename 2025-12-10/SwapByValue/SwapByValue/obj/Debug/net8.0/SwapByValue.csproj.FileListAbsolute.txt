@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\bin\Debug\net8.0\SwapByValue.exe
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\bin\Debug\net8.0\SwapByValue.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\bin\Debug\net8.0\SwapByValue.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\bin\Debug\net8.0\SwapByValue.dll
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\bin\Debug\net8.0\SwapByValue.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.dll
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\refint\SwapByValue.dll
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\SwapByValue.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\SwapByValue\SwapByValue\obj\Debug\net8.0\ref\SwapByValue.dll
