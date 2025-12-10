@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\bin\Debug\net8.0\NestedClass.exe
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\bin\Debug\net8.0\NestedClass.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\bin\Debug\net8.0\NestedClass.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\bin\Debug\net8.0\NestedClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\bin\Debug\net8.0\NestedClass.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\refint\NestedClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\NestedClass.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\NestedClass\obj\Debug\net8.0\ref\NestedClass.dll
