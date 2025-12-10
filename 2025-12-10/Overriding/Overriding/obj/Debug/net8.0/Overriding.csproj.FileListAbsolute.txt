@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\bin\Debug\net8.0\Overriding.exe
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\bin\Debug\net8.0\Overriding.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\bin\Debug\net8.0\Overriding.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\bin\Debug\net8.0\Overriding.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\Overriding\Overriding\obj\Debug\net8.0\ref\Overriding.dll
