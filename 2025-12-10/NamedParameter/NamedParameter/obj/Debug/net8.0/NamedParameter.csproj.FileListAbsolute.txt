@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.exe
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.deps.json
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.dll
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\bin\Debug\net8.0\NamedParameter.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.dll
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\refint\NamedParameter.dll
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.pdb
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\NamedParameter.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-10\NamedParameter\NamedParameter\obj\Debug\net8.0\ref\NamedParameter.dll
