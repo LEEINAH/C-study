@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\repos\2025-12-11\SealedMethod\obj\Debug\net8.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\SealedMethod\obj\Debug\net8.0\SealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\SealedMethod\obj\Debug\net8.0\SealedMethod.sourcelink.json
