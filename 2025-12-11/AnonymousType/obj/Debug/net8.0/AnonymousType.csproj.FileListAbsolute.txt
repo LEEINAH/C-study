@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\bin\Debug\net8.0\AnonymousType.exe
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\bin\Debug\net8.0\AnonymousType.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\bin\Debug\net8.0\AnonymousType.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\bin\Debug\net8.0\AnonymousType.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\bin\Debug\net8.0\AnonymousType.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\refint\AnonymousType.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\AnonymousType.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AnonymousType\obj\Debug\net8.0\ref\AnonymousType.dll
