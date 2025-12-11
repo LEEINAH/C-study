@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.exe
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\refint\MultiInterfaceInheritance.dll
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\MultiInterfaceInheritance\obj\Debug\net8.0\ref\MultiInterfaceInheritance.dll
