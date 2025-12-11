@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\bin\Debug\net8.0\3DArray.exe
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\bin\Debug\net8.0\3DArray.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\bin\Debug\net8.0\3DArray.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\bin\Debug\net8.0\3DArray.dll
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\bin\Debug\net8.0\3DArray.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.dll
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\refint\3DArray.dll
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\3DArray.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\3DArray\obj\Debug\net8.0\ref\3DArray.dll
