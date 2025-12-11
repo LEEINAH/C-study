@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.exe
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\refint\AutoImplementedProperty.dll
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\AutoImplementedProperty\obj\Debug\net8.0\ref\AutoImplementedProperty.dll
