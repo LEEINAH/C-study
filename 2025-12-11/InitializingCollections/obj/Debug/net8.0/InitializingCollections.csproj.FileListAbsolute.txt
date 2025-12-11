@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\bin\Debug\net8.0\InitializingCollections.exe
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\bin\Debug\net8.0\InitializingCollections.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\bin\Debug\net8.0\InitializingCollections.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\bin\Debug\net8.0\InitializingCollections.dll
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\bin\Debug\net8.0\InitializingCollections.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.dll
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\refint\InitializingCollections.dll
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\InitializingCollections.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\InitializingCollections\obj\Debug\net8.0\ref\InitializingCollections.dll
