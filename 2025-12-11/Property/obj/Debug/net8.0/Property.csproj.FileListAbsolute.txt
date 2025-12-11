@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\Property\bin\Debug\net8.0\Property.exe
+C:\Users\PC\Desktop\repos\2025-12-11\Property\bin\Debug\net8.0\Property.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\Property\bin\Debug\net8.0\Property.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\Property\bin\Debug\net8.0\Property.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Property\bin\Debug\net8.0\Property.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\refint\Property.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\Property.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Property\obj\Debug\net8.0\ref\Property.dll
