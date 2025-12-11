@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\bin\Debug\net8.0\Tuple.exe
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\bin\Debug\net8.0\Tuple.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\bin\Debug\net8.0\Tuple.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\bin\Debug\net8.0\Tuple.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\Tuple\obj\Debug\net8.0\ref\Tuple.dll
