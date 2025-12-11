@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\bin\Debug\net8.0\UsingStack.exe
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\bin\Debug\net8.0\UsingStack.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\bin\Debug\net8.0\UsingStack.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\bin\Debug\net8.0\UsingStack.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\bin\Debug\net8.0\UsingStack.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\refint\UsingStack.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\UsingStack.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingStack\obj\Debug\net8.0\ref\UsingStack.dll
