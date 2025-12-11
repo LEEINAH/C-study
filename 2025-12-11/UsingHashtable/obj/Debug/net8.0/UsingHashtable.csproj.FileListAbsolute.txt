@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\bin\Debug\net8.0\UsingHashtable.exe
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\bin\Debug\net8.0\UsingHashtable.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\bin\Debug\net8.0\UsingHashtable.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\bin\Debug\net8.0\UsingHashtable.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\bin\Debug\net8.0\UsingHashtable.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\refint\UsingHashtable.dll
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\UsingHashtable.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\UsingHashtable\obj\Debug\net8.0\ref\UsingHashtable.dll
