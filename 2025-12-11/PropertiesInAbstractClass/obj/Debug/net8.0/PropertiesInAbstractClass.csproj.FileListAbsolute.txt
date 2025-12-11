@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.exe
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\refint\PropertiesInAbstractClass.dll
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\PropertiesInAbstractClass\obj\Debug\net8.0\ref\PropertiesInAbstractClass.dll
