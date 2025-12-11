@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\bin\Debug\net8.0\DerivedInterface.exe
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\bin\Debug\net8.0\DerivedInterface.deps.json
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\bin\Debug\net8.0\DerivedInterface.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\bin\Debug\net8.0\DerivedInterface.dll
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\bin\Debug\net8.0\DerivedInterface.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.dll
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\refint\DerivedInterface.dll
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.pdb
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\DerivedInterface.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-11\DerivedInterface\obj\Debug\net8.0\ref\DerivedInterface.dll
