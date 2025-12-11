@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\bin\Debug\net8.0\Indexer.exe
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\bin\Debug\net8.0\Indexer.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\bin\Debug\net8.0\Indexer.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\bin\Debug\net8.0\Indexer.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\bin\Debug\net8.0\Indexer.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\refint\Indexer.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Indexer\obj\Debug\net8.0\ref\Indexer.dll
