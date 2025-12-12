@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\bin\Debug\net8.0\ThrowExpression.exe
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\bin\Debug\net8.0\ThrowExpression.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\bin\Debug\net8.0\ThrowExpression.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\bin\Debug\net8.0\ThrowExpression.dll
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\bin\Debug\net8.0\ThrowExpression.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.dll
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\refint\ThrowExpression.dll
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ThrowExpression.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\ThrowExpression\obj\Debug\net8.0\ref\ThrowExpression.dll
