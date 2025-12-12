@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\bin\Debug\net8.0\TryCatch.exe
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\bin\Debug\net8.0\TryCatch.dll
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.dll
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll
