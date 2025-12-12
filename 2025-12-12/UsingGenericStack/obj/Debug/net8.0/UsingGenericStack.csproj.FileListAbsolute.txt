@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.exe
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\refint\UsingGenericStack.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericStack\obj\Debug\net8.0\ref\UsingGenericStack.dll
