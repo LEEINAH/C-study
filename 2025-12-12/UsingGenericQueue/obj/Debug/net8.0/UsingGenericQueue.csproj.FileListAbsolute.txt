@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.exe
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\refint\UsingGenericQueue.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericQueue\obj\Debug\net8.0\ref\UsingGenericQueue.dll
