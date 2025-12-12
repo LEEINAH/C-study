@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\bin\Debug\net8.0\usingDictionary.exe
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\bin\Debug\net8.0\usingDictionary.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\bin\Debug\net8.0\usingDictionary.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\bin\Debug\net8.0\usingDictionary.dll
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\bin\Debug\net8.0\usingDictionary.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.dll
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\refint\usingDictionary.dll
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\usingDictionary.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\usingDictionary\obj\Debug\net8.0\ref\usingDictionary.dll
