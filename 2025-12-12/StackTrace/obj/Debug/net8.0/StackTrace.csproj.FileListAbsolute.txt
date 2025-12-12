@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\bin\Debug\net8.0\StackTrace.exe
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\bin\Debug\net8.0\StackTrace.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\bin\Debug\net8.0\StackTrace.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\bin\Debug\net8.0\StackTrace.dll
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\bin\Debug\net8.0\StackTrace.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.dll
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\refint\StackTrace.dll
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\StackTrace.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\StackTrace\obj\Debug\net8.0\ref\StackTrace.dll
