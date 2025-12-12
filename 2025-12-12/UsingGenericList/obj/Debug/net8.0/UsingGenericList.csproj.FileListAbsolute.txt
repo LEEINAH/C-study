@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\bin\Debug\net8.0\UsingGenericList.exe
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\bin\Debug\net8.0\UsingGenericList.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\bin\Debug\net8.0\UsingGenericList.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\bin\Debug\net8.0\UsingGenericList.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\bin\Debug\net8.0\UsingGenericList.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\refint\UsingGenericList.dll
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\UsingGenericList.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\UsingGenericList\obj\Debug\net8.0\ref\UsingGenericList.dll
