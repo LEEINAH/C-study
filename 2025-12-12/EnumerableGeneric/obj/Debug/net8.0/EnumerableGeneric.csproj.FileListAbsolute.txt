@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.exe
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.dll
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.dll
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\refint\EnumerableGeneric.dll
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\EnumerableGeneric\obj\Debug\net8.0\ref\EnumerableGeneric.dll
