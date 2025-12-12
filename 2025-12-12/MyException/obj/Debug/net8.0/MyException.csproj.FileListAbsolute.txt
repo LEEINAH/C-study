@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\bin\Debug\net8.0\MyException.exe
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\bin\Debug\net8.0\MyException.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\bin\Debug\net8.0\MyException.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\bin\Debug\net8.0\MyException.dll
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\bin\Debug\net8.0\MyException.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.dll
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\refint\MyException.dll
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\MyException.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\MyException\obj\Debug\net8.0\ref\MyException.dll
