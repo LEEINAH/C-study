@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\bin\Debug\net8.0\Generic.exe
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\bin\Debug\net8.0\Generic.deps.json
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\bin\Debug\net8.0\Generic.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\bin\Debug\net8.0\Generic.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\refint\Generic.dll
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.pdb
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-12\Generic\obj\Debug\net8.0\ref\Generic.dll
