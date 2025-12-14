@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.exe
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.dll
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.dll
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\refint\AnonymousMethod.dll
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\AnonymousMethod\obj\Debug\net8.0\ref\AnonymousMethod.dll
