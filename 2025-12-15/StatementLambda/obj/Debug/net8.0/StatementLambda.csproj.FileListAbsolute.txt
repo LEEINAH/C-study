@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\bin\Debug\net8.0\StatementLambda.exe
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\bin\Debug\net8.0\StatementLambda.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\bin\Debug\net8.0\StatementLambda.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\bin\Debug\net8.0\StatementLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\bin\Debug\net8.0\StatementLambda.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\refint\StatementLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\StatementLambda.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\StatementLambda\obj\Debug\net8.0\ref\StatementLambda.dll
