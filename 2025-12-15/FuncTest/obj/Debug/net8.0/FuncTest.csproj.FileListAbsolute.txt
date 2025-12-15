@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\bin\Debug\net8.0\FuncTest.exe
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\bin\Debug\net8.0\FuncTest.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\bin\Debug\net8.0\FuncTest.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\bin\Debug\net8.0\FuncTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\bin\Debug\net8.0\FuncTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\refint\FuncTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\FuncTest.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\FuncTest\obj\Debug\net8.0\ref\FuncTest.dll
