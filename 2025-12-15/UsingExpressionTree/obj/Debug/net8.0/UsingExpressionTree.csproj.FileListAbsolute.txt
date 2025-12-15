@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\bin\Debug\net8.0\UsingExpressionTree.exe
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\bin\Debug\net8.0\UsingExpressionTree.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\bin\Debug\net8.0\UsingExpressionTree.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\bin\Debug\net8.0\UsingExpressionTree.dll
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\bin\Debug\net8.0\UsingExpressionTree.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.dll
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\refint\UsingExpressionTree.dll
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\UsingExpressionTree.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\UsingExpressionTree\obj\Debug\net8.0\ref\UsingExpressionTree.dll
