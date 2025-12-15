@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\bin\Debug\net8.0\ExpressionTreeViaLambda.exe
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\bin\Debug\net8.0\ExpressionTreeViaLambda.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\bin\Debug\net8.0\ExpressionTreeViaLambda.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\bin\Debug\net8.0\ExpressionTreeViaLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\bin\Debug\net8.0\ExpressionTreeViaLambda.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\refint\ExpressionTreeViaLambda.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ExpressionTreeViaLambda.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionTreeViaLambda\obj\Debug\net8.0\ref\ExpressionTreeViaLambda.dll
