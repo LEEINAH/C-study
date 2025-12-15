@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\bin\Debug\net8.0\ExpressionBodiedMember.exe
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\bin\Debug\net8.0\ExpressionBodiedMember.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\bin\Debug\net8.0\ExpressionBodiedMember.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\bin\Debug\net8.0\ExpressionBodiedMember.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\bin\Debug\net8.0\ExpressionBodiedMember.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\refint\ExpressionBodiedMember.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ExpressionBodiedMember.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ExpressionBodiedMember\obj\Debug\net8.0\ref\ExpressionBodiedMember.dll
