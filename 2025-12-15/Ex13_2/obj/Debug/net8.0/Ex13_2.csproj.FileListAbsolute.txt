@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\bin\Debug\net8.0\Ex13_2.exe
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\bin\Debug\net8.0\Ex13_2.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\bin\Debug\net8.0\Ex13_2.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\bin\Debug\net8.0\Ex13_2.dll
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\bin\Debug\net8.0\Ex13_2.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.dll
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\refint\Ex13_2.dll
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\Ex13_2.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\Ex13_2\obj\Debug\net8.0\ref\Ex13_2.dll
