@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\bin\Debug\net8.0\ActionTest.exe
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\bin\Debug\net8.0\ActionTest.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\bin\Debug\net8.0\ActionTest.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\bin\Debug\net8.0\ActionTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\bin\Debug\net8.0\ActionTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\refint\ActionTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ActionTest.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\ActionTest\obj\Debug\net8.0\ref\ActionTest.dll
