@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\bin\Debug\net8.0\EventTest.exe
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\bin\Debug\net8.0\EventTest.deps.json
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\bin\Debug\net8.0\EventTest.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\bin\Debug\net8.0\EventTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\bin\Debug\net8.0\EventTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\refint\EventTest.dll
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.pdb
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\EventTest.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-15\EventTest\obj\Debug\net8.0\ref\EventTest.dll
