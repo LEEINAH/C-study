@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\bin\Debug\net8.0\SimpleLinq2.exe
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\bin\Debug\net8.0\SimpleLinq2.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\bin\Debug\net8.0\SimpleLinq2.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\bin\Debug\net8.0\SimpleLinq2.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\bin\Debug\net8.0\SimpleLinq2.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\refint\SimpleLinq2.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\SimpleLinq2.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SimpleLinq2\obj\Debug\net8.0\ref\SimpleLinq2.dll
