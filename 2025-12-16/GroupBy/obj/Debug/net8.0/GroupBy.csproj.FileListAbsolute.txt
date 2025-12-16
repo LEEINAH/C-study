@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\bin\Debug\net8.0\GroupBy.exe
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\bin\Debug\net8.0\GroupBy.deps.json
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\bin\Debug\net8.0\GroupBy.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\bin\Debug\net8.0\GroupBy.dll
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\bin\Debug\net8.0\GroupBy.pdb
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.dll
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\refint\GroupBy.dll
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.pdb
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\GroupBy.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-16\GroupBy\obj\Debug\net8.0\ref\GroupBy.dll
