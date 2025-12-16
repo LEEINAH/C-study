@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\bin\Debug\net8.0\FromFrom.exe
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\bin\Debug\net8.0\FromFrom.deps.json
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\bin\Debug\net8.0\FromFrom.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\bin\Debug\net8.0\FromFrom.dll
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\bin\Debug\net8.0\FromFrom.pdb
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.dll
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\refint\FromFrom.dll
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.pdb
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\FromFrom.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-16\FromFrom\obj\Debug\net8.0\ref\FromFrom.dll
