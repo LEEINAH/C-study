@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MinMaxAvg/1.0.0": {
+        "runtime": {
+          "MinMaxAvg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinMaxAvg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

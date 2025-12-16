@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\bin\Debug\net8.0\MinMaxAvg.exe
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\bin\Debug\net8.0\MinMaxAvg.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\bin\Debug\net8.0\MinMaxAvg.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\bin\Debug\net8.0\MinMaxAvg.dll
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\bin\Debug\net8.0\MinMaxAvg.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.dll
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\refint\MinMaxAvg.dll
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\MinMaxAvg.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\MinMaxAvg\obj\Debug\net8.0\ref\MinMaxAvg.dll
