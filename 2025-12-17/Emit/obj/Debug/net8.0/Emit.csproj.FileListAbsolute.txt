@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\bin\Debug\net8.0\Emit.exe
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\bin\Debug\net8.0\Emit.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\bin\Debug\net8.0\Emit.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\bin\Debug\net8.0\Emit.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\bin\Debug\net8.0\Emit.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\refint\Emit.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\Emit.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Emit\obj\Debug\net8.0\ref\Emit.dll
