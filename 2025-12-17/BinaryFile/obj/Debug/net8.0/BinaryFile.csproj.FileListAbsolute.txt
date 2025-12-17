@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\bin\Debug\net8.0\BinaryFile.exe
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\bin\Debug\net8.0\BinaryFile.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\bin\Debug\net8.0\BinaryFile.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\bin\Debug\net8.0\BinaryFile.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\bin\Debug\net8.0\BinaryFile.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\refint\BinaryFile.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\BinaryFile.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BinaryFile\obj\Debug\net8.0\ref\BinaryFile.dll
