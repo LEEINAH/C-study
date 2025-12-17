@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\bin\Debug\net8.0\BasicAttribute.exe
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\bin\Debug\net8.0\BasicAttribute.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\bin\Debug\net8.0\BasicAttribute.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\bin\Debug\net8.0\BasicAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\bin\Debug\net8.0\BasicAttribute.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\refint\BasicAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\BasicAttribute.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\BasicAttribute\obj\Debug\net8.0\ref\BasicAttribute.dll
