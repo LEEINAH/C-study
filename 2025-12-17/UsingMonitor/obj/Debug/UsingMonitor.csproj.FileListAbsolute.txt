@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\bin\Debug\UsingMonitor.exe.config
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\bin\Debug\UsingMonitor.exe
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\bin\Debug\UsingMonitor.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\obj\Debug\UsingMonitor.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\obj\Debug\UsingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\obj\Debug\UsingMonitor.exe
+C:\Users\PC\Desktop\repos\2025-12-17\UsingMonitor\obj\Debug\UsingMonitor.pdb
