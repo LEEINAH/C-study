@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\bin\Debug\ParallelLoop.exe.config
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\bin\Debug\ParallelLoop.exe
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\bin\Debug\ParallelLoop.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\obj\Debug\ParallelLoop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\obj\Debug\ParallelLoop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\obj\Debug\ParallelLoop.exe
+C:\Users\PC\Desktop\repos\2025-12-17\ParallelLoop\obj\Debug\ParallelLoop.pdb
