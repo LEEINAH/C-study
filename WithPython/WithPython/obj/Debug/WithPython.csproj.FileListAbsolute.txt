@@ -1,0 +1,2 @@
+C:\Users\PC\Desktop\repos\WithPython\WithPython\obj\Debug\WithPython.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\WithPython\WithPython\obj\Debug\WithPython.csproj.CoreCompileInputs.cache
