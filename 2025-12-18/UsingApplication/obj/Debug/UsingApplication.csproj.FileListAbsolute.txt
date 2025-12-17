@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\bin\Debug\UsingApplication.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\bin\Debug\UsingApplication.exe
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\bin\Debug\UsingApplication.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\obj\Debug\UsingApplication.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\obj\Debug\UsingApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\obj\Debug\UsingApplication.exe
+C:\Users\PC\Desktop\repos\2025-12-18\UsingApplication\obj\Debug\UsingApplication.pdb
