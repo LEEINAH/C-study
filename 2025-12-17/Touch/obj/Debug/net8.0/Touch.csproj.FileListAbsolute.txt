@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\bin\Debug\net8.0\Touch.exe
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\bin\Debug\net8.0\Touch.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\bin\Debug\net8.0\Touch.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\bin\Debug\net8.0\Touch.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\bin\Debug\net8.0\Touch.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\refint\Touch.dll
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\Touch.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\Touch\obj\Debug\net8.0\ref\Touch.dll
