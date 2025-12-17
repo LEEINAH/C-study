@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\bin\Debug\net8.0\SeqNRand.exe
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\bin\Debug\net8.0\SeqNRand.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\bin\Debug\net8.0\SeqNRand.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\bin\Debug\net8.0\SeqNRand.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\bin\Debug\net8.0\SeqNRand.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\refint\SeqNRand.dll
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\SeqNRand.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\SeqNRand\obj\Debug\net8.0\ref\SeqNRand.dll
