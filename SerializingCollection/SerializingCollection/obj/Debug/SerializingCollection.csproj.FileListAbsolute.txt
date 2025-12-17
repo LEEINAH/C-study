@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.exe.config
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.exe
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.pdb
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.exe
+C:\Users\PC\Desktop\repos\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.pdb
