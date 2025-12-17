@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\bin\Debug\net8.0\HistoryAttribute.exe
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\bin\Debug\net8.0\HistoryAttribute.deps.json
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\bin\Debug\net8.0\HistoryAttribute.runtimeconfig.json
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\bin\Debug\net8.0\HistoryAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\bin\Debug\net8.0\HistoryAttribute.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.AssemblyInfo.cs
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.sourcelink.json
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\refint\HistoryAttribute.dll
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.pdb
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\HistoryAttribute.genruntimeconfig.cache
+C:\Users\PC\Desktop\repos\2025-12-17\HistoryAttribute\obj\Debug\net8.0\ref\HistoryAttribute.dll
