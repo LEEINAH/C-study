@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\bin\Debug\COMInterop.exe.config
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\bin\Debug\COMInterop.exe
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\bin\Debug\COMInterop.pdb
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\obj\Debug\COMInterop.exe
+C:\Users\PC\Desktop\repos\COMInterop\COMInterop\obj\Debug\COMInterop.pdb
