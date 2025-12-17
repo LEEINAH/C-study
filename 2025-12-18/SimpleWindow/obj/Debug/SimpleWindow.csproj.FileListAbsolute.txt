@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\bin\Debug\SimpleWindow.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\bin\Debug\SimpleWindow.exe
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\obj\Debug\SimpleWindow.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\obj\Debug\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\obj\Debug\SimpleWindow.exe
+C:\Users\PC\Desktop\repos\2025-12-18\SimpleWindow\obj\Debug\SimpleWindow.pdb
