@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\bin\Debug\FormEvent.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\bin\Debug\FormEvent.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\bin\Debug\FormEvent.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\obj\Debug\FormEvent.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\obj\Debug\FormEvent.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\obj\Debug\FormEvent.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormEvent\obj\Debug\FormEvent.pdb
