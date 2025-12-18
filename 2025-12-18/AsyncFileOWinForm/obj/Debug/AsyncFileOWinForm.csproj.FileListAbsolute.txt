@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.MainForm.resources
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.Properties.Resources.resources
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\bin\Debug\AsyncFileOWinForm.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\bin\Debug\AsyncFileOWinForm.exe
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\bin\Debug\AsyncFileOWinForm.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.exe
+C:\Users\PC\Desktop\repos\2025-12-18\AsyncFileOWinForm\obj\Debug\AsyncFileOWinForm.pdb
