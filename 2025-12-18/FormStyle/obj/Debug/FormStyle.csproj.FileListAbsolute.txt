@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\bin\Debug\FormStyle.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\bin\Debug\FormStyle.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\bin\Debug\FormStyle.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\obj\Debug\FormStyle.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\obj\Debug\FormStyle.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\obj\Debug\FormStyle.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormStyle\obj\Debug\FormStyle.pdb
