@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\bin\Debug\FUP.dll
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\bin\Debug\FUP.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\obj\Debug\FUP.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\obj\Debug\FUP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\obj\Debug\FUP.dll
+C:\Users\PC\Desktop\repos\2025-12-18\FUP\obj\Debug\FUP.pdb
