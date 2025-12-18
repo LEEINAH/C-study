@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\bin\Debug\FileSender.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\bin\Debug\FileSender.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\bin\Debug\FileSender.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\bin\Debug\FUP.dll
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\bin\Debug\FUP.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.csproj.Up2Date
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FileSender\obj\Debug\FileSender.exe.config
