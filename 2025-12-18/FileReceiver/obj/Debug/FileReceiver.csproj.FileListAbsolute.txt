@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\bin\Debug\FileReceiver.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\bin\Debug\FileReceiver.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\bin\Debug\FileReceiver.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\bin\Debug\FUP.dll
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\bin\Debug\FUP.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\obj\Debug\FileReceiver.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\obj\Debug\FileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\obj\Debug\FileRece.CB1DCEB3.Up2Date
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\obj\Debug\FileReceiver.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FileReceiver\obj\Debug\FileReceiver.pdb
