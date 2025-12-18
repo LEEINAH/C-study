@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\bin\Debug\UsingControls.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\bin\Debug\UsingControls.exe
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\bin\Debug\UsingControls.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.MainForm.resources
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.Properties.Resources.resources
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.exe
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\UsingControls\obj\Debug\UsingControls.exe.config
