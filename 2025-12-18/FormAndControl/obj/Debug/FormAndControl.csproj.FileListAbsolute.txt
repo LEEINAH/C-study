@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\bin\Debug\FormAndControl.exe.config
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\bin\Debug\FormAndControl.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\bin\Debug\FormAndControl.pdb
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\obj\Debug\FormAndControl.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\obj\Debug\FormAndControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\obj\Debug\FormAndControl.exe
+C:\Users\PC\Desktop\repos\2025-12-18\FormAndControl\obj\Debug\FormAndControl.pdb
